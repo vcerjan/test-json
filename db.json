@@ -17,10 +17,10 @@
     },
     "condition": {
       "bloodPressure": {
-        "diastolic": null,
-        "systolic": null
+        "diastolic": 80,
+        "systolic": 120
       },
-      "alergies": [],
+      "alergies": ["peanuts", "fish"],
       "diabetesType": null,
       "lactoseIntolerance": false,
       "glutenIntolerance": false
