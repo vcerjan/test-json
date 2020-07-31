@@ -1,3 +1,38 @@
 {
-  "bla": "HaBla"
+  "profile": {
+    "age": null,
+    "email": null,
+    "gender": null,
+    "name": "",
+    "height": null,
+    "weight": null,
+    "waist": null,
+    "hips": null,
+    "bloodData": {
+      "glucose": null,
+      "liverEnzimes": null,
+      "cholesterol": null,
+      "htriglicerides": null,
+      "urates": null
+    },
+    "condition": {
+      "bloodPressure": {
+        "diastolic": null,
+        "systolic": null
+      },
+      "alergies": [],
+      "diabetesType": null,
+      "lactoseIntolerance": false,
+      "glutenIntolerance": false
+    },
+    "lifestyle": {
+      "occupation": null,
+      "weeklyExerciseDuration": null,
+      "exerciseType": null
+    },
+    "foodPreference": {
+      "type": null,
+      "favouriteIngridients": []
+    }
+  }
 }
